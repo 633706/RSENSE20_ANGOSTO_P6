@@ -39,7 +39,7 @@ No se consigue implementar este punto. Se sigue las indicaciones del fabricante 
 * [OTAA vs ABP](https://www.thethingsindustries.com/docs/devices/abp-vs-otaa/)
 * [SENET](https://portal.senetco.io/)
 * [Conexión a SENET](https://docs.pycom.io/gettingstarted/registration/lora/senet/)
-* [Conexióna The  thing Network] (https://docs.pycom.io/gettingstarted/registration/lora/ttn/)
+* [Conexióna The  thing Network](https://docs.pycom.io/gettingstarted/registration/lora/ttn/)
 * [Conexión LoraWAN OTAA](https://docs.pycom.io/tutorials/networks/lora/lorawan-otaa/)
 ---
 David Angosto Latorre, 633706
