@@ -16,7 +16,7 @@ Realiza una comunicación Ping Pong entre dos módulos LoPy4, uno envía cada 4 
 
 [Video Ping-Pong](https://vimeo.com/592335496)
 
-##Comunicación LoRaWan:
+## Comunicación LoRaWan:
 Commit 82f555ae.
 
 No se consigue implementar este punto. Se sigue las indicaciones del fabricante (Pycom) para la conexióna a los servicios de TheThingsNetwork y Senet. En ambos casos sin exito, se prueba usando la MAC del dipositivo como device EUI y una generada por el servicio. También en base a la documentación de Pycom se asegura que la configuración de LoraWAN en los serivicios sea la correcta.
