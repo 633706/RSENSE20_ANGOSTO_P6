@@ -13,7 +13,7 @@ Realiza una comunicación Ping Pong entre dos módulos LoPy4, uno envía cada 4 
 
 ### Videos de mostrativos
 
-![Video Ping-Pong](https://vimeo.com/592335496)
+[Video Ping-Pong](https://vimeo.com/592335496)
 
 ##Comunicación LoRaWan
 Commit 82f555ae.
